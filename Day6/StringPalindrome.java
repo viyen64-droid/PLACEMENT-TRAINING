@@ -9,6 +9,8 @@ Example2:
      output:
              false
 
+     
+CODE:
 
 import java.util.*;
 public class StrPalindrome {
